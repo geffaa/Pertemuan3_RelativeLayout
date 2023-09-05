@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="buttonNumber1">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:backgroundTint">@color/light_grey</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="buttonNumber2">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:backgroundTint">@color/dark_grey</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="nonButtonNumber">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:backgroundTint">@color/orange</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
